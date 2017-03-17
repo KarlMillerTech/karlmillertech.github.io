@@ -1,0 +1,70 @@
+body {
+  color: white;
+  padding-top: 50px;
+}
+
+h1 {
+  margin-top: 150px;
+}
+
+.navbar-right {
+  margin-left: 40px;
+  margin-right: 40px;
+  width: 600px;
+}
+
+.navbar-brand {
+  font-size: 40px;
+}
+
+.bgHome {
+  background: url('http://i.imgur.com/Lk1h9Pp.jpg') no-repeat center center fixed;
+  height: 900px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+.bgProjects {
+  background: url("http://i.imgur.com/elWqyXj.jpg") no-repeat center center fixed;
+  height: 950px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.bgContact {
+  background: url("https://i.imgur.com/0Yy7uFyg.jpg") no-repeat center center fixed;
+  height: 900px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+a {
+  color: inherit;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.flag {
+  position: absolute;
+  top: 70px;
+  right: 70px;
+}
+
+.thumbnail {
+  margin-top: 150px;
+}
+
+.imgContact {
+  margin: 200px;
+  margin-bottom: -50px;
+}
+
+.imgContact img {
+  padding-left: 25px;
+}
+
+.footer {
+  padding-top: 200px;
+}
